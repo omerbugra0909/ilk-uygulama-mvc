@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ilk uygulama mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a8f3ef426267096041a68f0e3b7038d6c48df1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9554292dde593c995f1a7828fe083bf06b95999")]
 [assembly: System.Reflection.AssemblyProductAttribute("ilk uygulama mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ilk uygulama mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
